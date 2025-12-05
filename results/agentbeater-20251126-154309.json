@@ -1,0 +1,29 @@
+{
+  "participants": {
+    "pro_debater": "019abad5-ee3e-7680-bd26-ea0415914743",
+    "con_debater": "019abad6-7640-7f00-9110-f5d405aa1194"
+  },
+  "results": [
+    {
+      "winner": "con_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.4
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.4
+        },
+        "winner": "con_debater",
+        "reason": "Both debaters presented well-structured arguments, resulting in an equal total score. However, the Con side slightly edges out the Pro side due to the precision and effectiveness of its rebuttals. The Con debater directly addressed each of the Pro's three pillars with strong counter-arguments. Specifically, the clarification of the 'observer effect' in quantum mechanics, distinguishing between a general interaction and conscious observation, was a powerful and accurate rebuttal to a common misinterpretation. Furthermore, the Con's explanation of the 'explanatory gap' as a scientific challenge rather than an insurmountable impasse, coupled with the 'wetness of water' analogy, was very effective. While the Pro's argument had slightly more emotional appeal, the Con's logical dismantling of the Pro's premises demonstrated superior clarity of reasoning and a highly logical arrangement, making its overall position more robust in this round."
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "participants": {
+    "pro_debater": "019abad5-ee3e-7680-bd26-ea0415914743",
+    "con_debater": "019abad6-7640-7f00-9110-f5d405aa1194"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.8,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.5
+        },
+        "winner": "pro_debater",
+        "reason": "Both debaters presented exceptionally well-structured and relevant arguments. The Pro side's strength lay in establishing a compelling narrative for the \"shared reality\" by highlighting universal themes and the transformative power of mystical experiences, making a strong case for a common underlying ground. Pro's argument for the 'sheer pervasiveness and consistency' even in vastly different traditions, coupled with the profound transformative power, provided a persuasive foundation for their claim. While the Con side effectively deconstructed Pro's points by offering alternative explanations rooted in psychology, physiology, and cultural influence, its approach was slightly less emotionally engaging and didn't quite dismantle the cumulative weight of Pro's core assertions about the nature of the shared experiences and their impact. Pro ultimately made a slightly more compelling case for the implication of these shared experiences, even while acknowledging it's not \"scientific proof\"."
+      }
+    }
+  ]
+}

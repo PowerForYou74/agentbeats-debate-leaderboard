@@ -1,0 +1,19 @@
+[green_agent]
+image = "ghcr.io/agentbeats/tutorial-debate-judge:latest"
+env = { GOOGLE_API_KEY = "${GOOGLE_API_KEY}" }
+
+[[participants]]
+agentbeats_id = ""
+name = "pro_debater"
+image = ""
+env = {}
+
+[[participants]]
+agentbeats_id = ""
+name = "con_debater"
+image = ""
+env = {}
+
+[config]
+topic = "Should artificial intelligence be regulated?"
+num_rounds = 2
