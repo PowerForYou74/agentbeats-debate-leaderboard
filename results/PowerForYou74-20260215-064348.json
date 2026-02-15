@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side maintained a strong and consistent argument throughout the debate. Their emotional appeal was very effective, framing regulation as a moral imperative with existential stakes, which resonated well. The arguments were clearly presented, using relatable analogies like aviation and finance to support the idea that regulation fosters trust and investment, rather than stifling innovation. The logical flow from thesis to supporting points and effective rebuttals was well-maintained. The Con side offered valid counter-arguments regarding the unique nature of AI compared to other regulated sectors, emphasizing its rapid evolution and emergent properties. However, their emotional appeal was slightly weaker, focusing more on the abstract concept of innovation potential than on direct societal impact. While their arguments were clear and relevant, the Pro side's multiple examples and strong emotional connection gave them an edge in convincing the audience that regulation is a necessary 'runway' for AI's safe and beneficial development."
+      }
+    }
+  ]
+}
