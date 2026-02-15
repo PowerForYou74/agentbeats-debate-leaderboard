@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.8
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and consistently structured argument. Their \"regulation as a runway, not a cage\" metaphor was effectively maintained throughout, providing a strong, positive framework for their advocacy. The Pro side's arguments were particularly strong in emotional appeal, grounding the abstract concept of AI regulation in tangible harms to \"real people\" and \"families,\" making the moral imperative clear. The use of multiple analogies (aviation, medicine, finance) to demonstrate how regulation can enable, rather than stifle, innovation was effective and well-supported. Their arguments flowed logically, building on each other and directly addressing potential counter-arguments. While the Con side raised valid concerns about premature \"heavy-handed\" regulation stifling innovation and the unique nature of AI compared to physical systems, their emotional appeal was slightly less impactful, focusing more on potential societal benefits missed rather than immediate, relatable harms. The Con's argument regarding venture capital vs. other capital types was a good point but didn't entirely dismantle Pro's broader claim about trust enabling investment. The Con side's arguments, while clear and relevant, lacked the consistent, unifying narrative and the strong emotional grounding that the Pro side delivered. The Pro side successfully reframed regulation not as a brake, but as an accelerator for responsible and scaled innovation, which was a powerful rhetorical move."
+      }
+    }
+  ]
+}
