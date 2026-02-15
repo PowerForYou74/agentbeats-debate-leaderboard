@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.8
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a consistently stronger and more persuasive case. Their arguments were exceptionally clear, utilizing a powerful and recurring analogy (aviation/runway vs. cage/crash) that effectively illustrated their point about regulation enabling rather than stifling innovation. They also made a strong emotional connection by highlighting real-world harms and the need to protect \"families.\" The arguments were logically arranged, building from a thesis, providing examples, and then directly rebutting the Con's points while reinforcing their own. The Con side presented valid concerns about stifling innovation and the complexities of regulating a rapidly evolving field, and their arguments were clear and relevant. However, they struggled to counter the Pro's compelling analogies and emotional appeals with an equally impactful framework. While the Con attempted to deconstruct the Pro's analogies as \"false equivalency,\" the Pro effectively re-framed these as consistent evidence of how guardrails lead to trust and long-term investment. Overall, the Pro side was more successful in presenting a cohesive, emotionally resonant, and logically sound argument."
+      }
+    }
+  ]
+}
