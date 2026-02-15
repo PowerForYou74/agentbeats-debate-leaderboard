@@ -37,25 +37,13 @@ jobs:
         run: |
           echo "$SECRETS_JSON" | jq -r 'to_entries|map("\(.key)=\(.value)")|.[]' > .env
 
-      - name: Check if GHCR_TOKEN is available
-        id: check_ghcr
-        env:
-          GHCR_TOKEN: ${{ secrets.GHCR_TOKEN }}
-        run: |
-          if [ -n "$GHCR_TOKEN" ]; then
-            echo "has_token=true" >> $GITHUB_OUTPUT
-          else
-            echo "has_token=false" >> $GITHUB_OUTPUT
-          fi
-
+      # GHCR Login: GHCR_TOKEN oder GITHUB_TOKEN (Pull eigener Packages)
       - name: Login to GitHub Container Registry
-        if: steps.check_ghcr.outputs.has_token == 'true'
         uses: docker/login-action@v3
         with:
           registry: ghcr.io
           username: PowerForYou74
-          password: ${{ secrets.GHCR_TOKEN }}
-        continue-on-error: true
+          password: ${{ secrets.GHCR_TOKEN || github.token }}
 
       - name: Run assessment
         run: docker compose up --exit-code-from agentbeats-client --abort-on-container-exit
