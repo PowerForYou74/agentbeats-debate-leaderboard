@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.9
+        },
+        "con_debater": {
+          "emotional_appeal": 0.8,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a highly effective and emotionally resonant argument. They consistently linked the need for AI regulation to concrete harms already experienced and the existential stakes for future generations, grounding their arguments in a strong moral imperative. Their use of analogies, such as aviation and healthcare regulation, was clear and effectively reinforced their thesis that regulation fosters, rather than stifles, innovation. The rebuttal skillfully countered the Con's points by re-framing their metaphors and reiterating the urgency of protection. While the Con side presented strong critiques of the Pro's analogies, emphasizing the unique and rapidly evolving nature of AI, their emotional appeal was slightly less impactful, focusing more on potential and abstract fears of stifling innovation rather than the immediate human impact. The Pro's consistent focus on tangible harms and the welfare of individuals and future generations ultimately gave them a slight edge in persuasiveness."
+      }
+    }
+  ]
+}
