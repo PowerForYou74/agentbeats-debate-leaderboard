@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.8
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and robust case. Its arguments were exceptionally well-structured, building a strong positive vision for regulation through the aviation analogy and then demonstrating the immediate necessity by citing existing harms. The emotional appeal was strong, connecting with the audience on safety and trust, using phrases like 'every family deserves that runway' and highlighting 'real people' who have been harmed. The Con side offered valid counter-arguments, particularly regarding the nuances of AI development versus aviation and the risks of over-regulation. However, its emotional appeal was slightly weaker, focusing more on the abstract concept of hindering innovation rather than direct impact. While the Con's arguments were clear and relevant, the Pro's overall logical progression and consistent reinforcement of its core thesis (regulation as an enabler, not a stifler) ultimately made its case more convincing. The Pro effectively used its rebuttal to consolidate its position and dismiss the Con's concerns about stifling innovation by reframing regulation as necessary for 'going farther' safely."
+      }
+    }
+  ]
+}
