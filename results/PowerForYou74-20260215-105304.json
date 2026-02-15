@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a compelling and emotionally resonant argument, effectively using analogies to illustrate how regulation can foster, rather than hinder, innovation. Their arguments were clear, well-structured, and consistently relevant, addressing both the benefits of regulated growth and the moral imperative to prevent harm. The Pro's explanation of risk-based regulation also successfully mitigated some of the Con's concerns about premature stifling. While the Con debater presented clear and logical counter-arguments, particularly regarding the dissimilarity of AI to established technologies and the perceived contradiction in the Pro's stance, their arguments lacked the same level of emotional impact and did not offer a sufficiently proactive alternative given the acknowledged 'existential stakes'."
+      }
+    }
+  ]
+}
