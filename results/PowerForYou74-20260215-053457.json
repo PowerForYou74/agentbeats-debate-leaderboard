@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "con_debater": {
+          "emotional_appeal": 0.8,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "winner": "pro_debater",
+        "reason": "Both sides presented exceptionally strong and well-reasoned arguments, resulting in a tie in overall scores. However, upon closer evaluation, the Pro side is declared the winner due to the strength and strategic impact of its rebuttal. The Pro successfully countered the Con's core argument that regulation stifles innovation by providing concrete examples from heavily regulated yet innovative sectors like aviation and pharmaceuticals. This effectively reframed regulation not as a hindrance but as a mechanism for responsible and accelerated innovation, which was a powerful counter-narrative. While the Con side also articulated its points clearly, offering valuable nuances and alternatives, the Pro's direct, evidence-based refutation of a central opposing claim gave it a slight edge in persuasiveness and impact on the debate."
+      }
+    }
+  ]
+}
