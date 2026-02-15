@@ -2,8 +2,7 @@ name: Run Scenario
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # täglich 06:00 UTC
-    - cron: '0 18 * * *'  # täglich 18:00 UTC
+    - cron: '0 */4 * * *'   # alle 4h: 6 Battles/Tag (00, 04, 08, 12, 16, 20 UTC)
   push:
     paths:
       - 'scenario.toml'
