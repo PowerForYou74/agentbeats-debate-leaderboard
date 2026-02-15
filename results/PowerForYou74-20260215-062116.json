@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more cohesive and emotionally resonant argument. Their consistent use of the 'runway, not cage' and 'brakes, not anchor' metaphors effectively reframed regulation as an enabler of safe innovation and long-term trust, rather than a stifle. They effectively highlighted the existing harms of unregulated AI, appealing to empathy and a sense of urgency. While the Con side offered valid counter-arguments regarding the distinction between physical and software dangers and advocated for targeted solutions, their arguments, though clear, lacked the same compelling emotional appeal and overarching framework that the Pro side maintained throughout the debate. Pro's ability to link regulation to trust and investment, and to address real-world harms, made their case stronger."
+      }
+    }
+  ]
+}
