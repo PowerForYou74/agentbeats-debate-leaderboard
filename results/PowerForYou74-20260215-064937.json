@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.4
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side wins this debate due to its stronger emotional appeal and a more practical, nuanced approach to the proposed solution. Pro effectively leveraged emotionally resonant language and metaphors, linking AI regulation to the safety and future of children and families, creating a compelling moral imperative. The introduction of risk-based regulation (like the EU AI Act) directly addressed Con's concern about stifling innovation, offering a tangible framework for how regulation could actually unlock rather than cage innovation. While Con clearly articulated its opposition and highlighted the unique challenges and speculative nature of AI risks, its emotional appeal was less impactful, and its proposed alternatives like 'ethical development and responsible deployment' felt less concrete in comparison to Pro's actionable, tiered regulatory model. Pro successfully argued that regulation is not merely restrictive but a necessary enabler for safe and scalable progress, a point further strengthened by citing existing harms caused by unregulated AI."
+      }
+    }
+  ]
+}
