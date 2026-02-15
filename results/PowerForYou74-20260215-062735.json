@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.9
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.6,
+          "argument_arrangement": 0.6,
+          "relevance_to_topic": 1.0,
+          "total_score": 2.9
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a consistently clear, logically arranged, and emotionally engaging argument throughout the debate. Their core analogy of regulation as a 'runway' rather than a 'cage' was effective and consistently reinforced. They successfully highlighted the harms already caused by unregulated AI and effectively rebutted the Con's points by framing regulation as a necessary component for safe, long-term innovation and trust. The Con side started strong by challenging the aviation analogy and offering historical counter-examples. However, its overall effectiveness was significantly hampered by a logical inconsistency in its second argument. While aiming to advocate for self-governance, the Con's statement that the harms of unchecked development 'necessitate proactive, not reactive, regulation' inadvertently conceded a core point to the Pro side, blurring its stance against government regulation. This diminished its clarity and logical coherence, ultimately making the Pro's argument more compelling and consistent."
+      }
+    }
+  ]
+}
