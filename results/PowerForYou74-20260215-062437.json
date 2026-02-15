@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.8,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.4
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side demonstrated a slightly stronger performance overall. While both sides presented clear and relevant arguments, the Pro side's emotional appeal was more consistently woven throughout its arguments, focusing on the immediate and tangible harms to 'real people' and 'families', which resonates strongly. Its central analogy, while challenged by the Con, was effectively repurposed in the rebuttal to reinforce its stance that regulation allows for safer and ultimately greater progress ('runway, not the cage'). The argument that regulation fosters trust and investment, thereby 'unlocking' innovation, was a compelling counter to the common perception that regulation stifles it. The Con's arguments, while clear and well-reasoned in their opposition to premature regulation and their focus on the potential for good, struggled to fully dislodge the Pro's consistent emphasis on already existing harms and the benefit of structured safety for growth. The Con's analogy of regulation as an 'anchor' didn't quite land with the same persuasive force as the Pro's 'runway, not the crash' which implied guided, safe progress."
+      }
+    }
+  ]
+}
