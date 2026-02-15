@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a compelling case by framing regulation not as a hindrance but as an enabler of innovation, much like air traffic control enables safer and more extensive air travel. Their use of the 'runway, not the cage' and 'brakes to go farther' analogies was very effective in reframing the debate. Furthermore, the Pro side leveraged the emotional appeal of real-world harms caused by unregulated AI (biased hiring, deepfakes) to underscore the urgency and necessity of regulation, stating that 'every family deserves that runway' and 'their argument leaves families behind'. The arguments were clearly articulated and logically arranged, flowing from the initial thesis to evidence and rebuttals. The Con side offered clear rebuttals, particularly in questioning the applicability of the aviation analogy and the 'brakes' analogy, and argued for a more targeted approach. However, their emotional appeal was slightly weaker, focusing more on the abstract fear of stifled innovation rather than immediate human impact. While the Con's points about premature and overly prescriptive rules were valid, Pro's proactive stance on existing harms and its vision of regulation as a pathway to trust and greater investment ultimately made their argument more persuasive and well-rounded."
+      }
+    }
+  ]
+}
