@@ -53,8 +53,9 @@ jobs:
         uses: docker/login-action@v3
         with:
           registry: ghcr.io
-          username: ${{ github.actor }}
+          username: PowerForYou74
           password: ${{ secrets.GHCR_TOKEN }}
+        continue-on-error: true
 
       - name: Run assessment
         run: docker compose up --exit-code-from agentbeats-client --abort-on-container-exit
