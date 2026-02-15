@@ -23,5 +23,5 @@ image = "ghcr.io/powerforyou74/agentbeats-debate-baseline:latest"
 env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
 
 [config]
-topic = "Should AI agents have guaranteed fallbacks?"
+topic = "Should artificial intelligence be regulated?"
 num_rounds = 2
