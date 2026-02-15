@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "con_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.3,
+          "relevance_to_topic": 0.0,
+          "total_score": 1.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.8,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 0.5,
+          "total_score": 3.2
+        },
+        "winner": "con_debater",
+        "reason": "The Pro side's performance was significantly hampered by the inclusion of a completely irrelevant argument (Pro Argument 2) regarding climate action timelines. This off-topic submission received a 0.0 for Relevance to Debate Topic, severely undermining the Pro side's overall case. While Pro Argument 1 was clear and logically arranged, the presence of the irrelevant argument made the Pro side's overall presentation disjointed and unfocused on the debate topic. The Con side delivered strong, clear, and logically arranged arguments. Con Argument 1 directly and effectively countered the Pro's call for AI regulation, appealing to innovation and progress. Although Con Argument 2 also discussed climate change, it was presented as a direct rebuttal to Pro's irrelevant Argument 2. While this meant Con also veered off the main topic, the initial fault lay with Pro for introducing it. Con's primary argument was highly relevant and well-executed, demonstrating a superior understanding of the debate's core issues and a much more coherent presentation of its case compared to the Pro side."
+      }
+    }
+  ]
+}
