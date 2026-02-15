@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.8,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.7,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a very clear and consistent argument, effectively using the aviation analogy to frame regulation as an enabler of innovation rather than a suppressor. Their emotional appeal was strong, focusing on the protection of individuals and families from documented harms of unregulated AI. The arguments were logically arranged and consistently reinforced the core thesis. The Con side offered valid critiques of the Pro's analogy and highlighted the risks of stifling innovation, but their alternative vision for \"responsible development\" and \"targeted regulation\" felt less developed and less integrated into a compelling, coherent framework compared to the Pro's. While both sides maintained relevance to the topic, the Pro's ability to turn potential negatives (regulation) into positives (trust, safety, long-term growth) gave them a stronger overall stance."
+      }
+    }
+  ]
+}
