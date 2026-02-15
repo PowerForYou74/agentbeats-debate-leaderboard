@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.1
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and well-rounded argument. It scored significantly higher in emotional appeal by effectively highlighting the moral imperative and existing harms of unregulated AI, connecting with the audience on a deeper level. Pro's arguments were also clearer and more logically arranged, using effective analogies that framed regulation as an enabler of innovation, which Con struggled to fully dismantle. While Con made valid points about the unique nature of AI and the risks of premature regulation, its arguments lacked the same persuasive force and emotional weight, making Pro's case for regulation more convincing."
+      }
+    }
+  ]
+}
