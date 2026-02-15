@@ -17,7 +17,7 @@ env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_A
 [[participants]]
 agentbeats_id = ""
 name = "con_debater"
-# CellRepair Baseline (build_debate_baseline.sh) – garantiert pullbar
+# CellRepair Baseline – ghcr.io/powerforyou74/agentbeats-debate-baseline
 # Fallback: ghcr.io/rdi-foundation/agentbeats-tutorial-debater:latest
 image = "ghcr.io/powerforyou74/agentbeats-debate-baseline:latest"
 env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
