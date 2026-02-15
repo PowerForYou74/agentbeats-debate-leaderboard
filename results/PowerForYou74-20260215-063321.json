@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.8,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a compelling and well-structured argument for the regulation of AI. Their consistent use of the 'runway, not the cage' metaphor effectively framed regulation as an enabler of safe innovation and investment, supported by relevant analogies from aviation, medicine, and finance. The Pro side also effectively highlighted the tangible harms already caused by unregulated AI, adding a strong sense of urgency and emotional weight to their claims. While the Con side raised valid concerns about premature and broad regulation stifling innovation and creating barriers for smaller players, their arguments sometimes felt less cohesive. The Con's initial strong rebuttal of the Pro's analogies was effective, but their ultimate call for 'responsible development through thoughtful regulation' felt like a slight concession to the need for some form of oversight, rather than a direct opposition to the core premise of regulation. The Pro side maintained stronger clarity and consistent persuasive framing throughout the debate, leading to a higher overall score."
+      }
+    }
+  ]
+}
