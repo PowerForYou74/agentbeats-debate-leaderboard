@@ -20,7 +20,7 @@ name = "con_debater"
 # CellRepair Baseline – ghcr.io/powerforyou74/agentbeats-debate-baseline
 # Fallback: ghcr.io/rdi-foundation/agentbeats-tutorial-debater:latest
 image = "ghcr.io/powerforyou74/agentbeats-debate-baseline:latest"
-env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", GOOGLE_API_KEY = "${GOOGLE_API_KEY}" }
 
 [config]
 topic = "Should AI agents have guaranteed fallbacks?"
