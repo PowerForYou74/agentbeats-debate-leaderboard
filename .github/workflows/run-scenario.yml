@@ -12,7 +12,6 @@ jobs:
     permissions:
       contents: write
       packages: read
-      workflows: write
 
     steps:
       - name: Checkout
@@ -73,7 +72,10 @@ jobs:
           git fetch upstream
           git checkout -b ${{ steps.metadata.outputs.branch_name }} upstream/main
 
+      # PAT_TOKEN (oder GITHUB_TOKEN) für Push nötig – Default-Token hat in Forks keine Write-Berechtigung
       - name: Commit results
+        env:
+          PUSH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -81,6 +83,7 @@ jobs:
           git commit -m "Submission: ${{ steps.metadata.outputs.unique_name }}
 
           Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          git remote set-url origin "https://x-access-token:${PUSH_TOKEN}@github.com/${{ github.repository }}.git"
           git push origin ${{ steps.metadata.outputs.branch_name }}
           echo "::notice title=Submission Branch Created::Your results are ready for submission on branch: ${{ steps.metadata.outputs.branch_name }}"
 
