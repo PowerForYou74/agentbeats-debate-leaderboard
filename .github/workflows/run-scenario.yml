@@ -71,8 +71,9 @@ jobs:
           git remote add upstream https://github.com/${{ steps.target.outputs.repo }}.git
           git fetch upstream
           git checkout -b ${{ steps.metadata.outputs.branch_name }} upstream/main
+          # .github entfernen – blockiert Push (workflows permission); PR braucht nur submissions/ + results/
+          rm -rf .github
 
-      # PAT_TOKEN (oder GITHUB_TOKEN) für Push nötig – Default-Token hat in Forks keine Write-Berechtigung
       - name: Commit results
         env:
           PUSH_TOKEN: ${{ secrets.PAT_TOKEN }}
@@ -80,6 +81,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add submissions/${{ steps.metadata.outputs.unique_name }}.toml results/${{ steps.metadata.outputs.unique_name }}.json
+          git add .github || true
           git commit -m "Submission: ${{ steps.metadata.outputs.unique_name }}
 
           Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
