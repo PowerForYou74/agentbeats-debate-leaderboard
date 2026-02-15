@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.1
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a more compelling and well-rounded argument. Their emotional appeal was strong and consistent, effectively connecting the abstract concept of AI regulation to tangible human well-being and future generations. The use of analogies from aviation, automotive, healthcare, and finance made their arguments exceptionally clear and easy to follow, demonstrating how regulation can enable growth rather than stifle it. The arguments were logically structured, building a strong case for the necessity of regulation due to existing harms and the moral imperative to protect society. Every point remained highly relevant to the debate topic. The Con side, while clearly articulating its concerns about stifling innovation and the unique nature of AI, lacked the same emotional impact and the concrete examples provided by the Pro side. The Con's proposed alternatives, such as 'ethical guidelines' and 'adaptive governance,' felt less robust than the Pro's call for established regulatory frameworks. The Pro side successfully framed regulation as a 'runway' for innovation, which ultimately carried more weight than the Con's warnings against a 'bureaucratic quagmire'."
+      }
+    }
+  ]
+}
