@@ -37,14 +37,8 @@ jobs:
         run: |
           echo "$SECRETS_JSON" | jq -r 'to_entries|map("\(.key)=\(.value)")|.[]' > .env
 
-      # GHCR Login nur bei GHCR_TOKEN – beide Images (purple, baseline) sind public, Pull ohne Login möglich
-      - name: Login to GitHub Container Registry
-        if: ${{ secrets.GHCR_TOKEN != '' }}
-        uses: docker/login-action@v3
-        with:
-          registry: ghcr.io
-          username: PowerForYou74
-          password: ${{ secrets.GHCR_TOKEN }}
+      # Beide Images (purple, baseline) sind public – Pull ohne GHCR-Login möglich
+      # GHCR_TOKEN nur für private Images; aktuell nicht nötig
 
       - name: Run assessment
         run: docker compose up --exit-code-from agentbeats-client --abort-on-container-exit
