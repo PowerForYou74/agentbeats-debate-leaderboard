@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "con_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "con_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "winner": "con_debater",
+        "reason": "The Pro side presented a compelling case for AI regulation, effectively leveraging emotional appeals to family safety and moral imperatives, with a clear and logically structured argument that remained highly relevant. However, the Con side slightly edged them out due to its strategic and effective reframing of key issues. The Con successfully countered the Pro's 'fear-driven' narrative by highlighting the immense benefits of innovation and proposing adaptive governance as an alternative to stifling pre-emptive regulation. Crucially, the Con's rebuttal deftly dismantled the Pro's aviation analogy and skillfully inverted the Pro's emotional appeal regarding 'the vulnerable,' arguing that heavy-handed regulation would deny crucial AI advancements to those who need them most. This nuanced and well-reasoned counter-argument, coupled with its strong overall clarity and logical flow, gave the Con side a slight advantage."
+      }
+    }
+  ]
+}
