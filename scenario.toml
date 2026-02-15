@@ -1,19 +1,27 @@
+# CellRepair AI – AgentX Purple auf Debate Leaderboard
+# In Fork von RDI-Foundation/agentbeats-debate-leaderboard als scenario.toml verwenden.
+# GitHub Secrets: GOOGLE_API_KEY, OPENAI_API_KEY, ANTHROPIC_API_KEY
+#
+# Siehe: docs/AGENTX_LEADERBOARD_INTEGRATION_PLAN.md
+
 [green_agent]
 image = "ghcr.io/agentbeats/tutorial-debate-judge:latest"
 env = { GOOGLE_API_KEY = "${GOOGLE_API_KEY}" }
 
 [[participants]]
-agentbeats_id = ""
+agentbeats_id = "PowerForYou74/cellrepair-ai-agentx-purple"
 name = "pro_debater"
-image = ""
-env = {}
+image = "ghcr.io/powerforyou74/cellrepair-agentx-purple:latest"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}" }
 
 [[participants]]
 agentbeats_id = ""
 name = "con_debater"
-image = ""
-env = {}
+# CellRepair Baseline (build_debate_baseline.sh) – garantiert pullbar
+# Fallback: ghcr.io/rdi-foundation/agentbeats-tutorial-debater:latest
+image = "ghcr.io/powerforyou74/agentbeats-debate-baseline:latest"
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}" }
 
 [config]
-topic = "Should artificial intelligence be regulated?"
+topic = "Should AI agents have guaranteed fallbacks?"
 num_rounds = 2
