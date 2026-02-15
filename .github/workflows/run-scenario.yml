@@ -12,6 +12,7 @@ jobs:
     permissions:
       contents: write
       packages: read
+      workflows: write
 
     steps:
       - name: Checkout
