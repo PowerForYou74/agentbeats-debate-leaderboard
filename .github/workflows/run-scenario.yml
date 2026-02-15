@@ -1,6 +1,9 @@
 name: Run Scenario
 
 on:
+  schedule:
+    - cron: '0 6 * * *'   # täglich 06:00 UTC
+    - cron: '0 18 * * *'  # täglich 18:00 UTC
   push:
     paths:
       - 'scenario.toml'
@@ -95,6 +98,18 @@ jobs:
           echo "[Click here to open a pull request](https://github.com/${{ steps.target.outputs.repo }}/compare/main...${{ github.repository_owner }}:${{ steps.metadata.outputs.branch_name }}?expand=1)" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "⚠️ When creating the PR, UNCHECK 'Allow edits and access to secrets by maintainers' to protect your secrets." >> $GITHUB_STEP_SUMMARY
+
+      - name: Auto-create PR
+        env:
+          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
+          gh pr create \
+            --repo ${{ steps.target.outputs.repo }} \
+            --head ${{ github.repository_owner }}:${{ steps.metadata.outputs.branch_name }} \
+            --base main \
+            --title "Submission: ${{ steps.metadata.outputs.unique_name }}" \
+            --body "Auto-submission from [Workflow Run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})."
+        continue-on-error: true
 
       - name: Cleanup
         if: always()

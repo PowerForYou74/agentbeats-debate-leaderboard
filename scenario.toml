@@ -12,7 +12,7 @@ env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
 agentbeats_id = "PowerForYou74/cellrepair-ai-agentx-purple"
 name = "pro_debater"
 image = "ghcr.io/powerforyou74/cellrepair-agentx-purple:latest"
-env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}" }
+env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", GEMINI_API_KEY = "${GEMINI_API_KEY}" }
 
 [[participants]]
 agentbeats_id = ""
