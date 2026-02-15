@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.9
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side established a strong, emotionally compelling case for AI regulation. They effectively used analogies like aviation and seatbelts to frame regulation as a facilitator of safety and innovation, rather than an impediment. Their arguments highlighted real-world harms caused by unregulated AI and passionately appealed to a moral imperative for future generations. In their rebuttal, the Pro side adeptly addressed the Con's concerns about the nature of AI risks by proposing 'risk-based regulation' (like the EU AI Act), which directly countered the idea of 'prematurely imposing rigid regulations.' While the Con side provided clear and logical critiques of Pro's analogies and the complexity of AI risk assessment, it struggled to match the Pro's emotional resonance and proactive solution-oriented approach. The Con's arguments, though relevant and well-structured as rebuttals, lacked a strong alternative framework, leading to a less impactful overall presentation compared to the Pro's consistent and layered advocacy for regulation."
+      }
+    }
+  ]
+}
