@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.8,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a very strong and consistent narrative, effectively using analogies (aviation, car brakes) to illustrate how regulation can foster, rather than hinder, innovation by building trust and ensuring safety. Their arguments were clear, logically arranged, and consistently linked back to the idea of protecting 'real people' and 'families' from the harms of unregulated AI, which provided a significant emotional appeal. The Con side offered well-reasoned rebuttals, particularly in questioning the applicability of the aviation analogy to AI's unique nature and highlighting potential innovation stifling. However, the Con's arguments, while logical, lacked the proactive framing and emotional resonance of the Pro side. The Pro's ability to pivot the 'stifled innovation' argument into 'trust unlocks investment' was highly effective, ultimately presenting a more compelling and holistic case for AI regulation."
+      }
+    }
+  ]
+}
