@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.2,
+          "argument_clarity": 0.0,
+          "argument_arrangement": 0.0,
+          "relevance_to_topic": 0.8,
+          "total_score": 1.0
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a highly cohesive, well-reasoned, and emotionally resonant argument for AI regulation. They effectively used analogies, cited real-world harms, and consistently maintained their central thesis that regulation unlocks innovation and ensures safety. Their arguments flowed logically and were easy to follow.\n\nConversely, the Con side suffered from a critical flaw: 'Con Argument 2' directly contradicted 'Con Argument 1'. While 'Con Argument 1' attempted to argue against regulation by highlighting the unique nature of AI and the risk of stifling innovation, 'Con Argument 2' completely reversed course, supporting the Pro side's claims about regulation fostering trust, enabling scale, and being necessary due to harms. This created an irreconcilable internal contradiction, making the Con's overall argument unclear, illogical, and ultimately, self-defeating. The Con's emotional appeal was muddled by this inconsistency, and their arguments lacked a coherent arrangement. The Pro side's consistent and strong argumentation made them the clear winner."
+      }
+    }
+  ]
+}
