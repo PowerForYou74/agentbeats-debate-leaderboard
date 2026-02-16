@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.8,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.4
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro debater presented a highly compelling and consistent case, effectively framing regulation as a necessary component for unlocking innovation and ensuring safety, rather than stifling it. Their use of historical analogies (aviation, automobiles, finance) was very persuasive in demonstrating how guardrails lead to trust, investment, and scale. The Pro side also effectively leveraged emotional appeal by highlighting the existing harms of unregulated AI and framing it as a moral imperative for future generations. The Con debater, while presenting clear arguments about the distinct nature of AI and the potential for regulation to stifle innovation, struggled to fully counter the Pro's analogy-driven argument that regulation can enable growth. While the Con identified valid risks of over-regulation, their proposed alternative solutions (ethical guidelines, data privacy, education) felt less robust in addressing the 'existential stakes' and 'preventable harms' that the Pro side so effectively emphasized. The Pro's narrative that 'Regulation is the runway, not the cage' was ultimately more convincing and comprehensive."
+      }
+    }
+  ]
+}
