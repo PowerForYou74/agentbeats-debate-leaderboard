@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.9
+        },
+        "winner": "pro_debater",
+        "reason": "Both debaters presented strong, clear, and logically arranged arguments highly relevant to the topic. However, the Pro side edged out the Con side primarily on Emotional Appeal. The Pro debater consistently invoked a strong sense of moral imperative, highlighting the existing harms to 'real people,' 'families,' and 'future generations,' which created a more urgent and compelling case for regulation. Their analogies to aviation, cars, healthcare, and finance were consistently applied and effectively rebutted the Con's points about stifling innovation. While the Con debater effectively argued against premature and overly broad regulation by emphasizing AI's nascent stage and its potential to solve global challenges, Pro's focus on current, tangible harms and the idea that regulation 'unlocks' innovation ultimately resonated more strongly."
+      }
+    }
+  ]
+}
