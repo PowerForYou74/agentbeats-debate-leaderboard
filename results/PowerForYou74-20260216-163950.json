@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.3,
+          "argument_arrangement": 0.2,
+          "relevance_to_topic": 0.8,
+          "total_score": 1.9
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a consistently strong and coherent argument, effectively using analogies (aviation, finance) to demonstrate how regulation can enable growth and safety rather than stifle it. Their arguments were clear, logically structured, and highly relevant, effectively connecting the need for regulation to existing harms (biased hiring, deepfakes) and a moral imperative for future generations. The Pro side also skillfully rebutted the 'heavy-handed' regulation claim by highlighting agile frameworks. The Con side, while starting with a clear opposition to 'immediate, broad regulation,' severely undermined its own position in its second argument. Con Argument 2 paradoxically listed various harms of unchecked AI (biased algorithms, deepfakes) and then explicitly advocated for 'proportional regulation... to prevent widespread harm and build the necessary public trust,' which is essentially the Pro's stance. This internal contradiction critically damaged the Con's clarity, logical arrangement, and overall persuasive power, leading to a much lower score."
+      }
+    }
+  ]
+}
