@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.4,
+          "argument_arrangement": 0.3,
+          "relevance_to_topic": 0.8,
+          "total_score": 2.0
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a consistently strong performance across all criteria. Their arguments were exceptionally clear, logically arranged with compelling analogies, and highly relevant to the debate topic. They also effectively used emotional language to underscore the 'moral imperative' and 'existential stakes' of unregulated AI, making a powerful connection with the audience. Furthermore, their rebuttal directly addressed the Con's 'heavy-handed' claim with specific examples of agile regulatory frameworks.\n\nConversely, the Con side presented a reasonable initial argument focusing on the risks of stifling innovation with premature regulation. However, its second 'argument' was merely a summary of the Pro's points, completely lacking any new counter-arguments or further development of its own case. This severely undermined the Con's overall clarity and logical arrangement, leaving its position incomplete and significantly less persuasive. While the Con's initial argument had some emotional appeal by advocating for freedom in innovation, this was not sustained."
+      }
+    }
+  ]
+}
