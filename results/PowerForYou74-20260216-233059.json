@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.7,
+          "argument_arrangement": 0.7,
+          "relevance_to_topic": 1.0,
+          "total_score": 2.9
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a consistently strong and compelling argument. Their core thesis that regulation acts as a 'runway, not a cage' for innovation was clearly articulated and emotionally resonant, particularly through examples of real-world harms and appeals to future generations. The analogies used were effective in illustrating the need for oversight, and the rebuttal skillfully addressed the Con's 'heavy-handed' criticism by citing practical, agile regulatory frameworks like the EU AI Act. The Con side, while attempting to draw distinctions between AI and other technologies, struggled to present a comparably robust alternative to regulation. Its argument regarding the EU AI Act in the second round was somewhat inconsistent, as it acknowledged the value of a tiered approach while still trying to argue against the premise of regulation. The Pro's arguments were more coherent, emotionally impactful, and better supported, ultimately making a more persuasive case for AI regulation."
+      }
+    }
+  ]
+}
