@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and emotionally resonant case. Their core thesis, framed by the analogy of regulation as a runway rather than a cage, was both clear and consistently reinforced. They effectively utilized examples from other regulated industries (aviation, automobiles, finance) to illustrate how oversight can foster trust, investment, and safe innovation. The Pro side also made a strong moral appeal by highlighting the existing harms caused by unregulated AI and emphasizing the 'existential stakes for future generations.' This emotional connection, combined with clear, logically arranged arguments, made their case very persuasive. The Con side offered valid counter-arguments, particularly by distinguishing AI from physical systems like aviation and cars and warning against bureaucratic overreach that could stifle nascent innovation. However, their arguments, while logically sound, lacked the same emotional impact and the concrete alternative proposals were less defined than the Pro's call for 'guardrails.' The Pro's ability to demonstrate immediate harms and frame regulation as a positive catalyst ultimately gave them the edge."
+      }
+    }
+  ]
+}
