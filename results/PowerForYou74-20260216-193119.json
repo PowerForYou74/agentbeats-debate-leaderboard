@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.5
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a highly cohesive and emotionally resonant argument for AI regulation. Their use of analogies (aviation, cars, finance) effectively illustrated how regulation can enable safety and foster innovation, directly countering the common concern that it stifles progress. The Pro's emphasis on existing harms caused by unregulated AI and the 'moral imperative' for future generations provided a strong emotional core. Their arguments were exceptionally clear, logically arranged, and consistently relevant to the debate topic, leaving little room for misinterpretation. The Con side offered a well-reasoned counter-argument, critically analyzing the Pro's analogies and highlighting the unique complexities of AI, such as its rapid, unpredictable evolution and the risk of overly burdensome regulations. While the Con's arguments were clear, logically structured, and highly relevant, they lacked the compelling emotional appeal and urgency that the Pro side successfully invoked. The Pro's ability to combine strong logical reasoning with a powerful emotional connection gave them the edge in this debate."
+      }
+    }
+  ]
+}
