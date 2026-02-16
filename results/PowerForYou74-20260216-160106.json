@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "con_debater": {
+          "emotional_appeal": 0.4,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.1
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side wins this debate primarily due to its stronger emotional appeal and more compelling, consistent narrative. While the Con side offered well-reasoned rebuttals regarding the unique nature of AI and the potential pitfalls of premature regulation, it struggled to match the Pro's persuasive framing. The Pro effectively used powerful analogies (aviation, cars, finance) to illustrate how regulation can foster, rather than hinder, innovation and trust. Its emphasis on existing harms and the \"moral imperative\" for future generations resonated strongly, creating a sense of urgency and responsibility. The Con's arguments, while clear and relevant, were more technical and lacked the emotional punch and proactive framing of the Pro, which consistently reinforced its central thesis: \"Regulation is the runway, not the cage.\""
+      }
+    }
+  ]
+}
