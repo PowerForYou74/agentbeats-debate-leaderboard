@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.8,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "winner": "pro_debater",
+        "reason": "Both sides presented robust and well-reasoned arguments, making it a closely contested debate. The Pro side effectively used vivid analogies and strong emotional appeals by highlighting existing harms of unregulated AI and framing regulation as a moral imperative for future generations. Their consistent use of the 'runway, not the cage' metaphor provided a clear and compelling narrative for how regulation can foster safe innovation and attract investment. The Con side offered a strong counter-argument by emphasizing the nascent and unique nature of AI, meticulously challenging the Pro's analogies and arguing that premature, rigid regulation could stifle its immense potential for good. While the Con's distinctions were insightful, the Pro's arguments regarding already observed harms and the link between trust (enabled by guardrails) and long-term investment resonated more strongly, suggesting that a lack of regulation carries immediate, tangible risks that outweigh the hypothetical risks of stifled innovation, especially when 'agile governance' is not clearly defined as an immediate, actionable alternative to 'regulation'."
+      }
+    }
+  ]
+}
