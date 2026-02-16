@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a compelling and emotionally resonant argument, effectively using historical analogies (aviation, cars, finance) to support their thesis that regulation can unlock innovation and foster trust rather than stifle it. Their points about existing harms from unregulated AI and the 'moral imperative' for future generations strongly connected with the audience. The arguments were clear, logically arranged, and consistently relevant to the debate topic. The Con side offered valid criticisms of the Pro's analogies, highlighting the unique, evolving nature of AI compared to physical machines or established financial systems. They also raised important concerns about premature regulation stifling innovation. However, their emotional appeal was less pronounced, and while their arguments were clear and relevant, they were primarily reactive to the Pro's framing, leading to a slightly less impactful overall case. The Pro side's proactive framing of regulation as an enabler ultimately created a more persuasive and well-rounded argument."
+      }
+    }
+  ]
+}
