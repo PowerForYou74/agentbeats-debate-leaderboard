@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and well-rounded case. Their arguments for regulation were supported by relatable historical analogies (aviation, cars, healthcare, finance) which effectively framed regulation as an enabler of safety, trust, and long-term innovation, rather than a hindrance. The Pro side also powerfully articulated the moral imperative for regulation by highlighting existing harms caused by unregulated AI (biased hiring, deepfakes) and emphasizing the existential stakes for future generations, thereby building a strong emotional connection. The rebuttal effectively disarmed the Con's innovation-stifling argument by demonstrating how regulated sectors still innovate and by using a clear metaphor (\"car without brakes\"). While the Con side presented a valid distinction about the emergent and opaque nature of AI compared to deterministic technologies, and argued for adaptive governance over rigid rules, it struggled to offer equally strong emotional appeal or concrete counter-examples. The Con's argument, though logical, was somewhat less accessible and less impactful in countering the direct harms and moral urgency presented by the Pro side. The Pro's ability to consistently link regulation to safety, trust, and progress, while also addressing current harms and future risks, gave it a stronger overall position."
+      }
+    }
+  ]
+}
