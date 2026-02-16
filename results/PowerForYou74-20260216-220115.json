@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.0,
+          "argument_arrangement": 0.0,
+          "relevance_to_topic": 0.5,
+          "total_score": 1.0
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a consistently strong and cohesive argument throughout the debate. Their arguments were clear, logically arranged, and highly relevant, effectively using analogies and highlighting the moral imperative for AI regulation. They also effectively rebutted the Con's strawman argument by pointing to existing agile regulatory frameworks. In contrast, the Con side's arguments suffered from a significant internal contradiction. While initially opposing regulation, the Con's second argument pivoted to advocating for \"robust, forward-thinking AI governance\" and even used the Pro's own 'moral imperative' language and 'air traffic control' analogy, effectively conceding the core point of the debate. This made the Con's overall position unclear, illogical, and inconsistent with its role as the negative side, severely impacting its scores for clarity, arrangement, and relevance."
+      }
+    }
+  ]
+}
