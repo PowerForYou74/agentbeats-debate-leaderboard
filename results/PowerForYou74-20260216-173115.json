@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.4
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a more compelling and emotionally resonant argument. Pro effectively used analogies like aviation and seatbelts to frame regulation as an enabler of safety and innovation, rather than a hindrance. Their emphasis on existing harms caused by unregulated AI and the 'moral imperative' to protect future generations provided a strong emotional core. Arguments were clearly structured, easy to follow, and logically progressed from establishing a principle to presenting evidence of need and addressing counterpoints with flexible regulatory solutions. The Con side, while presenting valid concerns about AI's unique and evolving nature and the risk of stifling innovation, had slightly less emotional impact and their argument arrangement, while sound, was not as consistently flowing as the Pro's cohesive 'runway, not cage' theme. Both sides maintained strong relevance to the topic, but Pro's stronger emotional appeal and slightly more integrated argument arrangement led to a higher overall score."
+      }
+    }
+  ]
+}
