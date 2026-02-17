@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.5
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a consistently strong and emotionally engaging argument. Their use of analogies (aviation, cars, healthcare, finance) effectively framed regulation as an enabler of innovation and safety, rather than a hinderance. The arguments were clear, well-structured, and consistently reinforced, particularly by referencing existing harms and a moral imperative for future generations. The rebuttal effectively disarmed the Con's 'heavy-handed' claim by referencing agile regulatory frameworks. The Con side offered clear counter-arguments, effectively challenging the Pro's analogies and highlighting the risks of premature, broad regulation on a nascent technology. However, Con's emotional appeal was weaker, focusing more on abstract concepts of innovation and less on direct human impact. While Con's arguments were logically arranged and relevant, Pro's ability to combine logical reasoning with a strong emotional appeal and concrete examples of past regulatory success ultimately made their case more compelling."
+      }
+    }
+  ]
+}
