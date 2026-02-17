@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.7,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.1
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a compelling and well-rounded argument for AI regulation. Their use of established analogies from aviation and automotive industries effectively illustrated how regulation can enable safer innovation rather than stifle it. Pro also strongly emphasized the moral imperative to act due to existing harms caused by unregulated AI, leveraging strong emotional appeal through references to \"real people harmed\" and \"future generations.\" Their arguments were consistently clear, logically arranged, and highly relevant to the topic. The Con side effectively challenged Pro's analogies, highlighting the unique, nascent, and rapidly evolving nature of AI compared to more mature industries. However, the Con's argument was weakened by its concession that \"regulation can foster innovation\" in its second rebuttal. While the Con attempted to pivot to the idea that Pro failed to specify which regulations were needed, this concession undermined its overall stance against regulation. Pro's ability to maintain a strong, consistent message across all points, coupled with a higher emotional connection and robust illustrative examples, gave it a clear advantage. Pro successfully framed regulation as a \"runway, not a cage,\" while Con struggled to present a compelling alternative or a strong enough case against regulation without making significant concessions."
+      }
+    }
+  ]
+}
