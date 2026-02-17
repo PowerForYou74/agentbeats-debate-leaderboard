@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "Pro consistently delivered stronger arguments across multiple criteria. Its emotional appeal was more direct and impactful, connecting the abstract concept of AI regulation to tangible human well-being and future generations. The use of familiar analogies (aviation, cars, healthcare, finance) made its core argument for regulation enabling, rather than hindering, innovation highly accessible and clear. The arguments were logically arranged, flowing smoothly from a clear thesis to supporting evidence and a powerful moral imperative. While Con effectively highlighted the unique challenges of AI and questioned the applicability of traditional regulatory models, its arguments, particularly its emotional appeal and the clarity of its alternative solution (\"dynamic, adaptive approach\"), were not as fully developed or impactful as Pro's. Pro's ability to frame regulation as a necessary component for safe growth and innovation, backed by examples of real harm, ultimately created a more compelling and persuasive case."
+      }
+    }
+  ]
+}
