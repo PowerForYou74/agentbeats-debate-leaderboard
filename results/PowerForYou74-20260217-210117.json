@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.5,
+          "argument_arrangement": 0.25,
+          "relevance_to_topic": 0.5,
+          "total_score": 1.75
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a compelling and well-structured argument, consistently reinforcing its thesis that regulation acts as a \"runway, not a cage\" for AI innovation. They effectively used strong analogies (aviation, automotive, finance) and appealed to both logic (investment, trust) and emotion (preventing harm, moral imperative for future generations). Their arguments were clear, logically arranged, and consistently relevant, demonstrating a comprehensive understanding of the topic and an ability to directly counter potential objections.\n\nIn contrast, the Con side's performance was significantly weaker, primarily due to the complete lack of a counter-argument in \"Con Argument 2.\" While Con Argument 1 offered a valid initial critique of the Pro's analogies by highlighting AI's intangible and rapidly evolving nature, it failed to build upon this. \"Con Argument 2\" merely restated the Pro's arguments without offering any refutation or new points of its own. This severe deficiency in engagement meant the Con side did not effectively challenge the Pro's main points, leaving many of the Pro's claims uncontested and allowing the Pro to dominate the debate's narrative. The Pro side's consistent message, strong supporting evidence, and superior argumentative structure led to a clear victory."
+      }
+    }
+  ]
+}
