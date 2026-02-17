@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.5
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a highly cohesive and emotionally resonant argument. Their central analogy of regulation as a 'runway' for innovation was consistently applied and effectively countered potential criticisms of stifling progress. By highlighting existing harms and framing regulation as a moral imperative for future generations, they created a strong emotional connection. The arguments were clear, logically arranged, and directly relevant to the topic. The Con side offered valid counter-arguments, particularly in challenging the analogies and distinguishing between technology and application, and proposing industry-led standards. However, the Con's emotional appeal was slightly weaker, and while their arguments were clear and relevant, they did not fully dismantle the Pro's compelling narrative of regulation leading to trust, investment, and safer, scaled innovation. The Pro's consistent emphasis on concrete harms and the 'moral imperative' provided a stronger impetus for their position."
+      }
+    }
+  ]
+}
