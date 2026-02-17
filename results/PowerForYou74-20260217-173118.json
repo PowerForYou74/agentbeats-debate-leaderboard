@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.8
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.6,
+          "argument_arrangement": 0.5,
+          "relevance_to_topic": 1.0,
+          "total_score": 2.6
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a highly cohesive and logically structured argument, effectively using historical analogies and highlighting real-world harms to advocate for AI regulation. Their arguments flowed seamlessly, and they maintained a consistent, emotionally resonant message about safety and future generations. In contrast, the Con side struggled with internal consistency. While initially arguing against 'premature regulation' and advocating for ethical guidelines, their second argument shifted to emphasize the need for 'proactive, not reactive, measures' and 'ethical guardrails now' due to the rapid escalation of AI's potential harms. This created a significant contradiction in their core stance, undermining the clarity and logical arrangement of their overall argument. The Pro's consistent framework and clear articulation of benefits and harms made their case far more compelling."
+      }
+    }
+  ]
+}
