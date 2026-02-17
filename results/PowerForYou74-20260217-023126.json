@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and well-supported argument. Their use of analogies (aviation, automotive, finance) effectively illustrated how regulation can enable growth and safety rather than stifle innovation. They also strongly emphasized the moral imperative to regulate AI due to documented past harms and existential future stakes, which resonated effectively. The Pro side's arguments were consistently clear, logically arranged, and emotionally engaging, establishing regulation as a \"runway\" for safe and trusted innovation. While the Con side made valid points about the unique challenges of regulating a rapidly evolving field like AI and the potential for rigid regulations to create barriers, their critique of the analogies felt slightly less convincing. Their arguments lacked the same emotional weight and broad applicability as Pro's, focusing more on potential downsides without offering as robust an alternative vision or sufficiently countering the documented harms. Pro's consistent message that regulation builds trust, which in turn unlocks scale and investment, was a powerful and well-reinforced theme throughout their presentation."
+      }
+    }
+  ]
+}
