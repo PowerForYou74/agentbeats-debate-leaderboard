@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.8
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.5
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a compelling and well-structured case for AI regulation. Its use of relatable analogies, such as aviation and cars, effectively illustrated the concept of regulation fostering safety and growth, making its core argument highly accessible and clear. The strong emotional appeal, consistently linking regulation to protecting families and future generations and addressing existing harms, resonated effectively throughout the debate. The arguments were logically arranged, flowing from a clear thesis to supporting examples and a strong moral imperative. While the Con side effectively highlighted the unique complexities of AI and the potential dangers of over-regulation, its arguments, though clear and relevant, lacked the same level of emotional resonance as the Pro side. The Con's focus on the abstract nature of AI and the risks of stifling innovation, while valid, did not overcome the Pro's concrete examples of harm and its powerful appeal to safety and protection for the vulnerable."
+      }
+    }
+  ]
+}
