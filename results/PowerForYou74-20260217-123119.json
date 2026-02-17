@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and well-rounded argument. Pro effectively used analogies to support its thesis that regulation enables innovation and safety, rather than stifling it. The strong focus on existing harms caused by unregulated AI and the \"moral imperative\" provided significant emotional weight and demonstrated a clear, urgent need for action. Pro's rebuttal was particularly effective in dismantling Con's \"heavy-handed\" strawman by introducing agile regulatory frameworks and reinforcing its analogies with further examples (healthcare, finance). The Con side provided clear critiques of Pro's analogies and raised valid concerns about premature, heavy-handed regulation. However, its arguments felt largely reactive, focusing on discrediting Pro's points rather than building a robust, proactive alternative framework beyond \"targeted, flexible oversight\" and \"foster innovation first.\" While Con scored well on relevance, its emotional appeal was weaker, and its logical progression was more of a response to Pro than an independent development of its own case. Pro's consistent emphasis on concrete harms and future generations, combined with practical examples of beneficial regulation, gave it a stronger overall position."
+      }
+    }
+  ]
+}
