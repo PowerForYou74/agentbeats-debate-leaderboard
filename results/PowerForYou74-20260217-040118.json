@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.0,
+          "argument_arrangement": 0.0,
+          "relevance_to_topic": 0.0,
+          "total_score": 0.5
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a consistently strong and coherent argument. They effectively used compelling analogies, presented clear evidence of existing harms from unregulated AI, and framed their argument as a moral imperative with high emotional stakes, particularly in linking regulation to safety, trust, and future generations. Their arguments were logically arranged, building a solid case that regulation acts as a 'runway' for innovation rather than a 'cage'. The Con side, unfortunately, suffered from a critical flaw in its second argument. While its initial argument attempted to distinguish AI from physical entities and suggest alternatives to broad regulation, its second argument (Con Argument 2) explicitly adopted the Pro's stance, arguing for the 'moral necessity' of regulation and stating that 'responsible regulation is not a brake on progress, but the very engine that allows for safe, scalable, and ethical advancements'. This fundamental self-contradiction rendered the Con's overall position unclear, illogical, and ultimately irrelevant to its assigned negative role, leading to a decisive win for the Pro side."
+      }
+    }
+  ]
+}
