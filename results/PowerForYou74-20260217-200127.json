@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.3,
+          "argument_clarity": 0.5,
+          "argument_arrangement": 0.4,
+          "relevance_to_topic": 0.9,
+          "total_score": 2.1
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a consistently clear, logically arranged, and emotionally compelling case for AI regulation. Their use of historical analogies, combined with concrete examples of harm caused by unregulated AI, made their argument persuasive and easy to follow. They maintained a consistent stance throughout the debate, effectively rebutting the Con's points while reinforcing their own. In contrast, the Con side struggled significantly with clarity and logical arrangement. While they raised valid points about the unique nature of AI and the risks of stifling innovation, their concluding statements in Con Argument 2 directly advocated for 'immediate, comprehensive regulation,' which fundamentally contradicted their earlier arguments against 'premature and overly prescriptive regulation' and for a 'measured approach.' This internal inconsistency severely weakened their overall position and made their argument ambiguous. The Pro side's superior coherence, emotional resonance, and consistent argumentation secured their victory."
+      }
+    }
+  ]
+}
