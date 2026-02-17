@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.5
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and emotionally engaging argument for the necessity of AI regulation. It effectively used analogies to illustrate how regulation can foster growth and safety, not stifle innovation. The emphasis on preventable harms and a 'moral imperative' resonated strongly, creating a sense of urgency. While the Con side offered well-reasoned counter-arguments regarding the complexities of AI and the potential for poorly designed regulation to hinder progress, its emotional appeal was less pronounced. The Con's argument for 'targeted, adaptive governance' ultimately conceded the need for some form of regulation, which, while nuanced, slightly weakened its overall 'no broad regulation' stance against the Pro's more direct call for regulation. The Pro's arguments were consistently clear, relevant, and well-structured, leading to a higher overall score."
+      }
+    }
+  ]
+}
