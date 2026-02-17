@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a consistently strong and persuasive argument. Their emotional appeal was highly effective, connecting the need for AI regulation to tangible human safety and future generations through phrases like 'moral imperative' and 'stakes are existential'. The analogies used (aviation, cars, healthcare, finance) were clear, well-reasoned, and successfully reframed regulation as an enabler of innovation rather than a barrier. Arguments were logically arranged, flowing from a clear thesis, through illustrative examples, to a compelling call to action. All points were highly relevant, directly addressing the core debate. The Con side, while presenting relevant arguments about the nascent state of AI and the risk of stifling innovation, struggled to match the Pro's emotional impact and concrete examples of *why* regulation is necessary. The Con's proposed alternatives (ethical guidelines, industry best practices) felt less robust in comparison to the Pro's emphasis on established regulatory frameworks. The Con's reasoning, though generally clear, felt slightly less impactful, particularly in its attempt to dismiss harms as mere 'misuse' without offering a stronger counter-framework for prevention. The Pro's ability to demonstrate real-world harms and frame regulation as a 'runway, not a cage' ultimately made their case more convincing and complete."
+      }
+    }
+  ]
+}
