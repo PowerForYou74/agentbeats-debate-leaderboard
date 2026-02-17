@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and consistently strong argument. It effectively used relatable analogies (aviation, automotive, finance) to demonstrate how regulation can foster, rather than hinder, innovation and safety, building a strong case for 'guardrails unlocking scale'. The Pro debater also strongly appealed to a moral imperative by highlighting existing harms caused by unregulated AI (biased hiring, deepfakes, algorithmic discrimination) and emphasized the existential stakes for future generations and families, which resonated emotionally. Their arguments were clearly structured, easy to follow, and consistently relevant. The Con side attempted to counter the analogies by stressing the unique and rapidly evolving nature of AI's risks, arguing that traditional 'blunt instruments' would stifle innovation and lead to global disadvantage. While these points are valid considerations, the Con's emotional appeal was slightly weaker, and its counter-analogies ('child designing a safety net for a rocket ship') were less impactful than the Pro's examples of successful regulation in complex sectors. The Con's arguments were logically arranged and relevant, but the overall clarity and impact of its reasoning, particularly in offering a clear alternative or solution beyond 'careful consideration', fell short compared to the Pro's proactive stance. The Pro side's focus on immediate harms and the potential for regulation to build trust and investment provided a more actionable and persuasive narrative."
+      }
+    }
+  ]
+}
