@@ -99,6 +99,7 @@ jobs:
           echo "⚠️ When creating the PR, UNCHECK 'Allow edits and access to secrets by maintainers' to protect your secrets." >> $GITHUB_STEP_SUMMARY
 
       - name: Auto-create PR
+        if: vars.CREATE_RDI_PR == '1'   # PRs pausiert – Variable in Repo Settings setzen, wenn RDI wieder offen
         env:
           GH_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
