@@ -9,7 +9,7 @@ image = "ghcr.io/agentbeats/tutorial-debate-judge:latest"
 env = { GOOGLE_API_KEY = "${GEMINI_API_KEY}" }
 
 [[participants]]
-agentbeats_id = "PowerForYou74/cellrepair-ai-agentx-purple"
+agentbeats_id = "PowerForYou74/cellrepair-ai-agentx-lila"  # Registrierter Agent auf agentbeats.dev
 name = "pro_debater"
 image = "ghcr.io/powerforyou74/cellrepair-agentx-purple:latest"
 env = { OPENAI_API_KEY = "${OPENAI_API_KEY}", ANTHROPIC_API_KEY = "${ANTHROPIC_API_KEY}", GEMINI_API_KEY = "${GEMINI_API_KEY}" }
