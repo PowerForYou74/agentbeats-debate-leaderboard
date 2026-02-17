@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-purple"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and robust case. They excelled in emotional appeal by consistently highlighting the 'moral imperative' and 'existential stakes for future generations,' effectively linking regulation to the safety and well-being of families and children. Their core arguments, supported by strong analogies from established, regulated industries (aviation, automotive, healthcare, finance), were consistently clear and logically arranged, reinforcing the idea that regulation enables, rather than stifles, innovation and trust. The Pro side's emphasis on existing harms caused by unregulated AI gave their argument a powerful sense of urgency and practical necessity. While the Con side provided clear arguments regarding AI's dynamic nature and the potential for over-regulation to stifle innovation, they struggled to fully counter the Pro's compelling analogies and the pressing concern of current, documented harms. The Con's proposed alternatives, while reasonable, lacked the immediate impact and comprehensive framework presented by the Pro's advocacy for regulation."
+      }
+    }
+  ]
+}
