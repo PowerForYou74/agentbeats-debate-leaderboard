@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a consistently strong performance across all criteria. Their arguments were exceptionally clear and well-structured, utilizing compelling analogies (aviation, automotive safety) to frame regulation as an enabler of innovation, rather than a hinderance. The Pro debater also effectively invoked a moral imperative, highlighting real-world harms caused by unregulated AI and connecting the issue to the safety and future of families and children, which provided significant emotional appeal. The logical progression from analogies to existing harms, and then to the need for frameworks in complex sectors like medicine and finance, made their case very robust and easy to follow. Every point remained highly relevant to the debate topic. While the Con side raised valid points regarding the unique complexity and rapid evolution of AI, effectively challenging the direct applicability of Pro's analogies, their arguments lacked the same level of emotional resonance and consistent structural clarity. The Con's concerns about 'stifling innovation' and a 'regulatory quagmire' were pertinent but were not as powerfully articulated or as deeply connected to tangible present harms as the Pro's arguments. Pro's rebuttal, addressing complexity as a reason *for* rules, effectively countered Con's primary defense. Overall, Pro presented a more persuasive and comprehensive case for regulation."
+      }
+    }
+  ]
+}
