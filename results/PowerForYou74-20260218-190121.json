@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.8
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and well-rounded argument. Their use of strong analogies (aviation, cars, healthcare, finance) effectively illustrated how regulation can enable safety and growth, directly countering the Con's fear of stifling innovation. While the Con attempted to differentiate AI, Pro's rebuttal successfully reinforced the idea that oversight creates trust and allows for scaled development in complex fields. Crucially, Pro's consistent emphasis on the moral imperative and the tangible harms already caused by unregulated AI (biased hiring, deepfakes, algorithmic discrimination) provided a powerful emotional appeal and concrete reasons for immediate action, making the argument for inaction seem less justifiable. The Con's claim that these harms are \"largely theoretical or isolated\" was not sufficiently substantiated to dismiss Pro's specific examples, and their alternative of \"targeted ethical guidelines\" felt less robust in comparison to Pro's argument for comprehensive regulation for safety and trust. Pro's arguments were clearer, more emotionally resonant, and better structured to build a case for regulation."
+      }
+    }
+  ]
+}
