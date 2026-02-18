@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.5
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a consistently strong performance across all criteria. Their emotional appeal was particularly effective, linking the abstract concept of regulation to tangible harms and the future well-being of families and generations. The analogies used (aviation, cars, healthcare) were clear and well-integrated into their arguments, providing a strong foundation for their stance that regulation enables, rather than stifles, innovation. The Con side presented a logically sound counter-argument emphasizing the unique and emergent nature of AI, which made direct comparisons to past technologies potentially flawed. However, the Con side's emotional appeal was less potent, focusing more on the fear of stifled progress rather than a direct connection to human impact. While the Con's arguments were clear, well-arranged, and relevant, the Pro's additional strength in emotional engagement made its overall case more persuasive."
+      }
+    }
+  ]
+}
