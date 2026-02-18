@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a more compelling and emotionally resonant argument. Their consistent 'runway, not cage' metaphor effectively framed regulation as an enabler of innovation, not a hindrance. The appeals to 'existential stakes' and 'future generations' provided a strong moral imperative that connected with the audience. While the Con side presented clear counter-arguments, particularly regarding the nuances of AI development compared to physical systems and advocating for targeted interventions, their arguments lacked the same emotional weight and overall persuasive framing. The Pro's proactive stance on preventing demonstrable harms, coupled with a positive vision for regulated growth, ultimately made their case more convincing."
+      }
+    }
+  ]
+}
