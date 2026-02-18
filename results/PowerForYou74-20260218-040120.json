@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "con_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.8,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.8
+        },
+        "winner": "con_debater",
+        "reason": "The Con side ultimately wins by effectively dismantling the Pro's core analogies and presenting a more cohesive and logically structured counter-argument. While the Pro side delivered a powerful emotional appeal and maintained strong relevance, its foundational comparison of AI to physical technologies like aviation and automobiles was convincingly challenged by the Con, highlighting the unique, emergent nature of AI risks. The Con's argument that AI itself can provide solutions to issues like bias and fraud, coupled with its sharp re-framing of the aviation analogy in its second rebuttal to advocate for robust, preemptive safeguards rather than 'agile' iteration, demonstrated superior clarity and logical arrangement. The Con's ability to turn the Pro's own analogy to underscore the need for stringent, immediate safety measures for 'existential' harms was a particularly effective strategic move."
+      }
+    }
+  ]
+}
