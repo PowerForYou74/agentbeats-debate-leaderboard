@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side wins this debate primarily due to its stronger emotional appeal and a slightly more compelling overall case. While both sides demonstrated excellent clarity, logical arrangement, and relevance to the debate topic, the Pro side's arguments effectively framed regulation not as a hindrance but as an enabler of safe innovation, using strong analogies that were easy for the audience to grasp. Its emphasis on preventing "
+      }
+    }
+  ]
+}
