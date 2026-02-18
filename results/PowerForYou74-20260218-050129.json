@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more compelling and well-rounded case. They excelled in emotional appeal, effectively connecting with the audience through relatable analogies and powerful rhetoric about protecting families and future generations. Their arguments were consistently clear, logically arranged, and highly relevant, drawing strong parallels to successful regulation in other industries (aviation, medicine, finance) to support their claim that regulation enables innovation and trust, rather than stifling it. Furthermore, their identification of existing harms caused by unregulated AI (\"biased hiring, deepfakes\") gave their argument a strong moral urgency. The Con side provided a clear counter-narrative, challenging the Pro's analogies and raising valid concerns about premature and overly rigid regulation stifling innovation in an emergent field like AI. However, their arguments, while logical and relevant, lacked the same emotional resonance and impactful examples as the Pro side. Their proposed solutions (sandboxes, ethical guidelines) were less concrete than the Pro's call for structured regulation, and their differentiation of AI as \"emergent and unpredictable\" felt less universally accessible than the Pro's analogies to common safety measures. Ultimately, the Pro side's ability to clearly articulate the benefits of regulation, demonstrate its necessity with real-world harms, and connect deeply with the audience's values made their case stronger."
+      }
+    }
+  ]
+}
