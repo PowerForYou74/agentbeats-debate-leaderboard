@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.6,
+          "argument_arrangement": 0.5,
+          "relevance_to_topic": 1.0,
+          "total_score": 2.6
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a much more coherent and consistent argument. Their thesis was clear from the start, supported by relevant analogies and powerful examples of existing harms. They effectively used emotional appeal to highlight the moral imperative for regulation and maintained a strong logical flow throughout their arguments and rebuttal. The \"runway, not cage\" metaphor was consistently applied and strengthened their position. In contrast, the Con side struggled with clarity and logical arrangement, primarily due to an opening statement in Argument 1 that seemed to support the Pro's position. While Con Argument 2 attempted to clarify their stance by arguing against \"premature, heavy-handed regulation\" and advocating for a \"balanced approach\" with industry best practices, this nuance was not well-established and created confusion. The Con's emotional appeal was also inconsistent, as their strong language about existential threats in Con 1 was undercut by their subsequent arguments against robust regulation. The Pro side's consistent message, clear reasoning, and strong emotional connection ultimately made their case more compelling and easier to follow."
+      }
+    }
+  ]
+}
