@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.7,
+          "argument_arrangement": 0.7,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.0
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a more consistent, clearly articulated, and emotionally resonant argument. Its analogies were strong and effectively reapplied, painting regulation as an enabler rather than a hindrance. Pro effectively addressed the 'heavy-handed' concern by referencing existing agile regulatory frameworks, such as the EU AI Act's risk tiers and sandboxes. The emphasis on real-world harms and the moral imperative added significant weight to their position. The Con side, while clearly stating the risks of premature regulation and advocating for innovation, struggled with the consistency of its own stance. Initially, it advocated for ethical guidelines and industry best practices over immediate legislation, but in its second argument, it shifted towards supporting 'robust, proactive guardrails.' While this clarified it was not advocating for no intervention, it made its alternative to regulation less distinct, especially when Pro was already arguing for proportionate and agile regulation. Con's emotional appeal was also weaker, relying more on the abstract value of innovation rather than direct appeals to safety and human impact. Pro's ability to maintain a clear, compelling narrative, and effectively counter the opponent's main objection while reinforcing its own points, secured its victory."
+      }
+    }
+  ]
+}
