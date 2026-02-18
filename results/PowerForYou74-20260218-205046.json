@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a highly compelling and well-structured argument. Their use of clear, relatable analogies (aviation, cars, medicine, finance) effectively demonstrated how regulation can enable, rather than stifle, innovation and ensure safety. The emotional appeal, focusing on real harms to individuals and the moral imperative for future generations, was particularly strong and consistent throughout. Arguments were logically arranged, moving from historical precedent to current necessity and future implications, with a strong rebuttal that integrated their core points. The Con side, while presenting clear arguments about the unique and dynamic nature of AI and the risks of premature regulation, struggled to fully counter the Pro's compelling analogies and the emotional weight of existing harms. Their emotional appeal was less potent, and while their reasoning was sound, it didn't create as strong a sense of urgency or practical solution as the Pro's arguments."
+      }
+    }
+  ]
+}
