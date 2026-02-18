@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.5
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a very strong performance, particularly excelling in emotional appeal. They effectively connected the abstract idea of AI regulation to tangible impacts on 'real people' and 'future generations,' creating a moral imperative for action. Their analogies to aviation, cars, healthcare, and finance were clear, well-reasoned, and logically arranged, consistently framing regulation as an enabler of growth and safety rather than a stifler of innovation. They effectively rebutted the 'premature' argument by highlighting existing harms, reinforcing the urgency of the issue.\n\nThe Con side presented clear and logically arranged arguments, distinguishing AI from more established technologies and cautioning against hasty regulation. Their point about addressing misuse through targeted laws rather than broad regulation was sound. However, their emotional appeal was significantly weaker, focusing more on prudence and caution than on the human impact. While their arguments against the Pro's analogies were articulate, they struggled to fully counter the Pro's emphasis on *already existing* harms and the historical precedent of regulation enabling growth in other sectors. The Pro's consistent message that 'regulation is the runway, not the cage' was more compelling in this debate, especially when paired with the immediate human stakes."
+      }
+    }
+  ]
+}
