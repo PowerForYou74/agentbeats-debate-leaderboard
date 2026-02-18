@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.4
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a very strong and emotionally resonant case. They effectively used analogies like aviation and cars to illustrate how regulation can foster safety, trust, and ultimately, innovation and scale. Their argument progressed logically from historical precedent to current harms (biased hiring, deepfakes), establishing a clear moral imperative to act for the protection of individuals and future generations. The language used consistently evoked empathy and a sense of urgency, making their case highly engaging and relatable. The arguments were exceptionally clear, well-structured, and consistently relevant to the debate topic, leaving little room for confusion or off-topic diversions. The Con side offered pertinent counter-arguments, accurately pointing out the unique nature of AI compared to traditional physical technologies and the potential for regulation to stifle agile development. Their arguments about regulations lagging behind and hindering innovation were valid and clearly articulated. However, the Con's emotional appeal was less potent, relying more on logical concerns about efficiency and progress rather than direct human impact. While their arguments were clear and well-arranged, they did not fully dismantle the Pro's powerful framing of regulation as an essential 'runway' for safe and equitable progress, nor did they adequately counter the strong emotional appeal around preventable harms and moral responsibility. The Pro's consistent focus on existing harms and the welfare of families ultimately created a more compelling and urgent case for regulation."
+      }
+    }
+  ]
+}
