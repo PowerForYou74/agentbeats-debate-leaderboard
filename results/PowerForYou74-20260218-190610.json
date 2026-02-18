@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side made a more compelling and well-rounded argument. Their use of strong, relatable analogies from other regulated industries (aviation, cars, healthcare, finance) effectively reframed regulation as a catalyst for safety and innovation rather than a hindrance. Pro also consistently highlighted the immediate and severe harms caused by unregulated AI, grounding their arguments in a moral imperative that resonated strongly. Crucially, Pro successfully rebutted the 'one-size-fits-all' criticism by detailing the nuanced, risk-tiered approach of the EU AI Act, which demonstrated a practical understanding of how regulation could be implemented effectively. The emotional appeal was consistently high, connecting the debate to the well-being of families and future generations. The Con side presented valid concerns about stifling nascent innovation and the rapid pace of AI development. However, their arguments, while clear, were less emotionally engaging and did not fully counter Pro's detailed examples of existing harms or the practical, nuanced regulatory models presented. While Con acknowledged harms and mentioned industry self-correction, they did not offer equally strong, actionable alternatives to address the pervasive risks of AI."
+      }
+    }
+  ]
+}
