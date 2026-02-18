@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.2
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a highly compelling and well-structured argument for AI regulation. Their use of relatable analogies (aviation, cars, healthcare, finance) effectively illustrated how regulation fosters safety and growth. The Pro side's strong emotional appeal, emphasizing the harms already caused by unregulated AI and the existential stakes for future generations, resonated deeply. They effectively countered the Con's "
+      }
+    }
+  ]
+}
