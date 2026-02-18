@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a consistently strong and emotionally resonant argument. They effectively used analogies to simplify complex ideas, like 'regulation as a runway, not a cage,' and reinforced their points with a moral imperative tied to future generations and vulnerable communities. Their pivot to 'risk-based regulation' directly addressed potential Con concerns about stifling innovation, making their argument more robust. The Con side offered compelling counter-arguments, particularly in highlighting the flawed analogies and the unique challenges of AI, but their emotional appeal was less pronounced, relying more on logical refutation rather than drawing the audience in. While Con clearly articulated its points and maintained relevance, Pro's combined strength in emotional connection, clarity, and logical progression, particularly in countering Con's points effectively, gave it a slight edge."
+      }
+    }
+  ]
+}
