@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.8
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.4
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a compelling argument by effectively using relatable analogies (aviation, cars) to frame regulation as a driver of innovation and safety, rather than a hindrance. Their arguments were exceptionally clear and well-arranged, logically progressing from the general principle to specific examples of harm caused by unregulated AI, culminating in a strong moral appeal for future generations and families. The Pro side's emotional appeal was significantly stronger, connecting with the audience through vivid descriptions of present harms and future stakes. Furthermore, the Pro side successfully rebutted the 'heavy-handed' regulation concern by pointing to agile frameworks like the EU AI Act. The Con side presented clear arguments challenging the applicability of the Pro's analogies due to AI's dynamic nature and raised valid concerns about stifling innovation. However, the Con's emotional appeal was less potent, and while their counter-proposal of 'targeted ethical guidelines and adaptive frameworks' was reasonable, it felt less urgent and concrete compared to the Pro's immediate call for action against existing harms. The Pro's consistent message that 'regulation is the runway, not the cage' was highly persuasive."
+      }
+    }
+  ]
+}
