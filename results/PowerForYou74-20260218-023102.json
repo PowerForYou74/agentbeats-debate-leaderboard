@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side demonstrated a stronger overall case. Their arguments were consistently clear, logically arranged, and highly relevant. They effectively used analogies to make complex ideas accessible and emotionally resonant, particularly with their focus on protecting families and future generations from documented harms. The Pro side also skillfully countered the Con's \"one-size-fits-all\" critique by providing a concrete example of nuanced regulation (EU AI Act's risk tiers), showing that their proposed regulation isn't about stifling innovation but enabling it responsibly. The Con side presented a clear and logically sound counter-argument, particularly in its critique of the analogies used by the Pro side, highlighting the unique and unpredictable nature of AI. However, its emotional appeal was slightly weaker, focusing more on the intellectual fear of stifled innovation and the unknown rather than direct, relatable human impact. While the Con side introduced the \"precautionary principle\" in its final statement, it didn't fully develop it as a concrete alternative to regulation, leaving its proposed solution somewhat less defined compared to the Pro side's structured regulatory approach. The Pro side's ability to address the Con's main criticism effectively and maintain a strong emotional and logical appeal ultimately gave it the edge."
+      }
+    }
+  ]
+}
