@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.7
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a highly compelling and emotionally resonant case for AI regulation. Its consistent use of the 'runway/seatbelt' analogy was effective in communicating that regulation enables safety and growth, making a complex topic accessible. By highlighting concrete harms already caused by unregulated AI and framing regulation as a 'moral imperative' for future generations, the Pro side effectively connected with the audience's values and empathy. Its arguments were clearly articulated, logically arranged, and consistently relevant. The Con side effectively challenged the Pro's core analogy, arguing that AI's dynamic and generative nature makes traditional regulatory frameworks unsuitable. It raised valid concerns about stifling innovation and creating obsolete regulations. However, while its critiques were logically sound and relevant, the Con side struggled to match the Pro's emotional appeal and the immediacy of the presented harms. The Pro's ability to ground its arguments in both practical benefits (innovation through trust) and urgent moral obligations gave it an edge."
+      }
+    }
+  ]
+}
