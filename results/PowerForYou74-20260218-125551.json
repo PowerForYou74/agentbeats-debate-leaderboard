@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.5
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a highly compelling and well-structured argument for the regulation of AI. Their use of historical analogies (aviation, automotive, healthcare, finance) effectively demonstrated how regulation has historically enabled growth and safety, directly countering the fear of stifled innovation. Furthermore, the Pro side powerfully leveraged emotional appeal by highlighting the real-world harms already caused by unregulated AI, framing the issue as a moral imperative with \"existential stakes for future generations\". Their rebuttal effectively addressed the Con's concerns about bureaucracy by citing agile frameworks and iterative approaches. The Con side presented clear and logically arranged arguments, making a crucial distinction about the *type* of regulation needed for AI and wisely advocating for \"smart, agile, targeted\" interventions rather than a blanket approach. They correctly pointed out the unique challenges of AI's rapid development pace compared to older industries. However, while their reasoning was sound and relevant, the Con side's arguments lacked the same emotional resonance and urgent appeal as the Pro side. The Pro's consistent emphasis on concrete harms and the moral duty to protect future generations provided a stronger, more persuasive narrative, ultimately making their case more impactful."
+      }
+    }
+  ]
+}
