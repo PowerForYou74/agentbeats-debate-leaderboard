@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 1.0,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 4.0
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.3,
+          "argument_arrangement": 0.2,
+          "relevance_to_topic": 0.7,
+          "total_score": 1.7
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a highly consistent, clear, and emotionally resonant argument for the regulation of AI. They effectively used historical analogies (aviation, cars, healthcare, finance) to demonstrate how sensible oversight has historically led to greater safety, trust, investment, and scale, rather than stifling innovation. Their emphasis on existing harms (biased hiring, deepfakes) and the 'moral imperative' to protect future generations provided a strong emotional core. Their arguments were logically arranged and consistently reinforced.\n\nIn contrast, the Con side started with a clear premise that premature and overly prescriptive regulation would stifle innovation, distinguishing AI's rapid pace from other technologies. However, the Con's second argument significantly undermined its own position. Instead of reinforcing its initial concerns, it largely conceded the Pro's points, stating that 'sensible oversight fosters growth and public trust' and that 'well-designed AI regulations can ensure safety and ethical development, thereby unlocking even greater investment and societal benefit.' It even acknowledged 'very real harms already inflicted by unregulated AI.' This pivot made the Con's overall argument unclear, inconsistent, and essentially aligned with the Pro's call for responsible regulation, rather than providing a distinct argument against regulation. The Con failed to maintain a clear negative stance, leading to a lack of clarity and logical arrangement in its overall presentation."
+      }
+    }
+  ]
+}
