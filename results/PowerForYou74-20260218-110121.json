@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.9
+        },
+        "con_debater": {
+          "emotional_appeal": 0.5,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a highly compelling argument, effectively using relatable analogies like aviation and seatbelts to frame regulation as an enabler of innovation rather than a hindrance. Their arguments were exceptionally clear and logically arranged, flowing seamlessly from the thesis to specific examples and a strong moral imperative. The use of emotional language, highlighting existing harms and the stakes for future generations, significantly enhanced their appeal. The Con side offered well-articulated critiques of the Pro's analogies, emphasizing the unique, abstract nature of AI risks versus physical safety. However, the Con's emotional appeal was notably weaker, and while their arguments were clear and relevant, they struggled to fully counter the Pro's comprehensive framing that regulation builds trust and long-term investment, as evidenced in other complex sectors like healthcare and finance. The Pro side's ability to combine logical reasoning with a strong ethical call to action ultimately made their case more persuasive and comprehensive."
+      }
+    }
+  ]
+}
