@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.9
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side demonstrated superior performance across emotional appeal, clarity, and logical arrangement. They effectively used relatable analogies (aviation, cars, healthcare, finance) to establish a clear principle that regulation, when applied correctly, enables safety, trust, and ultimately, innovation and growth. Their emphasis on \"real people harmed\" and \"families at risk\" provided a strong moral imperative, making their argument emotionally resonant and pressing. The Pro's arguments were well-structured, easy to follow, and directly addressed the core issue. The Con side effectively challenged the Pro's analogies by highlighting the \"false equivalency\" between physical systems and the rapidly evolving, emergent nature of AI. They raised valid concerns about premature regulation stifling innovation and favoring established players, using the internet as a counter-example. However, their emotional appeal was less potent, and while their arguments were clear and relevant, they struggled to fully counter the Pro's multifaceted case for immediate, enabling regulation that prevents tangible harm while fostering growth. The Con's argument felt more reactive and less proactive in offering a comprehensive alternative vision for managing AI risks and development. The Pro's framework of regulation as a \"runway\" rather than a \"cage\" was a powerful and consistently reinforced metaphor that the Con couldn't fully dismantle."
+      }
+    }
+  ]
+}
