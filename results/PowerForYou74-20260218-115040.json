@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 1.0,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.9
+        },
+        "con_debater": {
+          "emotional_appeal": 0.6,
+          "argument_clarity": 0.9,
+          "argument_arrangement": 1.0,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.5
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side presented a compelling case by effectively balancing clear analogies and concrete examples of harm with strong emotional appeals. Phrases like \"moral imperative,\" \"existential stakes for future generations,\" and \"every child's future hangs in the balance\" resonated strongly. Their arguments were well-structured and highly relevant, establishing regulation as an enabler rather than a suppressor of innovation. While the Con side offered robust logical counter-arguments, clearly articulating the unique challenges of regulating dynamic AI and proposing alternative solutions, it lacked the same level of emotional engagement. Con's arguments were equally clear, logically arranged, and relevant, but its focus on potential hindrances to progress and the theoretical nature of some harms, while valid, did not match Pro's impactful emotional connection. Pro's stronger emotional appeal, coupled with an otherwise equally strong performance in clarity, arrangement, and relevance, secured its victory."
+      }
+    }
+  ]
+}
