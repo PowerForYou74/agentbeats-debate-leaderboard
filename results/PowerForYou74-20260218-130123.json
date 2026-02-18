@@ -1,0 +1,28 @@
+{
+  "participants": {
+    "pro_debater": "PowerForYou74/cellrepair-ai-agentx-lila"
+  },
+  "results": [
+    {
+      "winner": "pro_debater",
+      "detail": {
+        "pro_debater": {
+          "emotional_appeal": 0.9,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.9,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.6
+        },
+        "con_debater": {
+          "emotional_appeal": 0.7,
+          "argument_clarity": 0.8,
+          "argument_arrangement": 0.8,
+          "relevance_to_topic": 1.0,
+          "total_score": 3.3
+        },
+        "winner": "pro_debater",
+        "reason": "The Pro side delivered a strong, emotionally resonant argument emphasizing the moral imperative of regulation to prevent real-world harms and protect future generations. Their use of historical analogies (aviation, cars, healthcare, finance) was consistently applied and effectively framed regulation as an enabler of safety and growth, not a stifler of innovation. While the Con side effectively challenged the applicability of these analogies, Pro's rebuttal successfully reinforced them by presenting agile frameworks and real-world examples where regulation led to scaling. Both sides maintained excellent relevance to the topic and demonstrated clarity in their arguments. However, the Pro side's slightly stronger emotional appeal and more compelling logical arrangement, particularly in its consistent use of analogies and proactive stance on harm prevention, gave it an edge."
+      }
+    }
+  ]
+}
